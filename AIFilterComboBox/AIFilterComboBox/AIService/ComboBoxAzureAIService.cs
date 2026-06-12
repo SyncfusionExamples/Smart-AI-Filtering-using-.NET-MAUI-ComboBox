@@ -11,17 +11,17 @@ namespace AIFilterComboBox.AIFilterComboBox
         /// <summary>
         /// The EndPoint
         /// </summary>
-        private const string endpoint = "https://ai237583.openai.azure.com/";
+        private const string endpoint = "YOUR_END_POINT_NAME";
 
         /// <summary>
         /// The Deployment name
         /// </summary>
-        private const string deploymentName = "gpt-5.4-mini";
+        private const string deploymentName = "DEPLOYMENT_NAME";
 
         /// <summary>
         /// The API key
         /// </summary>
-        private const string key = "iKNOlN8RLZOF4Skj6mHgtegufRCafRum0ISijXzTuLBcnsvkhDIAJQQJ99CEACYeBjFXJ3w3AAABACOGZqXL";
+        private const string key = "API_KEY";
 
 
 
